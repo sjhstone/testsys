@@ -4,7 +4,7 @@ import {BrowserRouter, Route, Link} from 'react-router-dom';
 
 import HomeView from './view/home';
 import QuizListView from './view/quiz_list';
-import QuizTakeView from './view/take_quiz';
+import QuizTakeView from './view/quiz_take';
 
 import '../node_modules/grommet-css'
 
